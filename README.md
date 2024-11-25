@@ -1,5 +1,6 @@
 # LenovoYogaPenToggle
 A small PowerShell script to toggle the pen driver on and off for Lenovo Yoga 7 2-in-1 laptops.
+(Work-in-progress)
 
 # Instructions
 To start, make sure your Lenovo drivers are up to date from the [Lenovo website](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/yoga-series/yoga-7-2-in-1-16ahp9/downloads/ds567269-wacom-driver-for-windows-11-64-bit-yoga-7-2-in-1-14ahp9-yoga-7-2-in-1-16ahp9?category=Mouse,%20Touchpad,%20Keyboard%20and%20Pen), especially for the pen driver, and that in device manager, it displays the HID-compliant pen driver as otherwise, it'll most likely be combined with the touchscreen driver which prevents this program from working on it.
